@@ -1,5 +1,6 @@
-
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=yaskour)](https://github.com/mohouyizme/1337-readme)
 <h1 align="center">Hi 👋, I'm Younes Askour</h1>
+
 <h3 align="center">A passionate CS stdundet from morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-askour&label=Profile%20views&color=0e75b6&style=flat" alt="y-askour" /> </p>
