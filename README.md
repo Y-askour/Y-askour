@@ -1,4 +1,3 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=yaskour)](https://github.com/mohouyizme/1337-readme)
 [![yaskour's 42 stats](https://badge42.herokuapp.com/api/stats/yaskour)](https://github.com/JaeSeoKim/badge42)
 <h1 align="center">Hi 👋, I'm Younes Askour</h1>
 <a href="https://github.com/Y-askour?tab=repositories">
