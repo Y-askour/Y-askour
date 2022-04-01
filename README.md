@@ -2,7 +2,7 @@
 
 ## 👨‍💻 My 42 stats
 
-[![yaskour's 42 stats](https://badge42.herokuapp.com/api/stats/yaskour?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+[![yaskour's 42 stats](https://badge.mediaplus.ma/kettlebells/yaskour)](https://github.com/oakoudad/badge42)
 
 ## 📈 My Github status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-askour&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
