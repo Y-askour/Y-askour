@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes Askour</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Y-askourl&label=Profile%20views&color=0e75b6&style=flat" alt="faroukbel" /> </p>
 ## 👨‍💻 My 42 stats
 
 [![yaskour's 42 stats](https://badge.mediaplus.ma/kettlebells/yaskour)](https://github.com/oakoudad/badge42)
